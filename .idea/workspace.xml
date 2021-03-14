@@ -21,6 +21,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="9ea2e818-eff0-4500-9965-da211f3344f8" name="Default Changelist" comment="" />
@@ -29,7 +30,11 @@
       <option name="presentableId" value="Default" />
       <updated>1612663573917</updated>
       <workItem from="1612663579531" duration="7000" />
+      <workItem from="1613481729492" duration="93000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
